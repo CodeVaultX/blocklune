@@ -24,7 +24,7 @@ A calm, offline block puzzle for Android: place three pieces on an 8×8 board, f
 - Undo, hints and a "Second Wind". Color-blind friendly: every color has its own pattern.
 - English and Turkish. Fully offline.
 
-The game is free. It shows ads from Google AdMob only after a Classic game ends (never while you play, never on the daily puzzle, never in the first 15 minutes or first 5 games). Rewarded ads are optional. Intended for ages 13 and over.
+The game is free. It shows ads from Google AdMob only after a Classic game ends (never while you play, never on the daily puzzle, never in the first 15 minutes or first 5 games). Rewarded ads are optional: for a second chance after a game, or for extra Undo/Hint uses once the free ones run out. A one-time purchase ("Remove ads") turns ads off for good. Intended for ages 13 and over.
 
 ## Support
 
@@ -55,7 +55,7 @@ Android için sakin, internetsiz bir blok bulmacası: 8×8 tahtaya gelen üç pa
 - Geri al, ipucu ve "Bir şans daha". Renk körü dostu: her renkte ayrı bir motif.
 - Türkçe ve İngilizce. Tamamen internetsiz çalışır.
 
-Oyun ücretsizdir. Google AdMob reklamlarını yalnızca Klasik oyun bittikten sonra gösterir (oyun sırasında asla, günlük bulmacada asla, ilk 15 dakika ve ilk 5 oyunda asla). Ödüllü reklam isteğe bağlıdır. 13 yaş ve üzeri için tasarlanmıştır.
+Oyun ücretsizdir. Google AdMob reklamlarını yalnızca Klasik oyun bittikten sonra gösterir (oyun sırasında asla, günlük bulmacada asla, ilk 15 dakika ve ilk 5 oyunda asla). Ödüllü reklam isteğe bağlıdır: oyun bitince bir şans daha ya da ücretsiz Geri al/İpucu hakların bitince ek hak için. Tek seferlik bir satın almayla ("Reklamları kaldır") reklamlar kalıcı olarak kapanır. 13 yaş ve üzeri için tasarlanmıştır.
 
 ## Destek
 

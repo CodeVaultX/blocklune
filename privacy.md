@@ -4,11 +4,11 @@ title: Blocklune — Privacy Policy
 
 # Blocklune — Privacy Policy
 
-*Last updated: November 22, 2026*
+*Last updated: November 23, 2026*
 
 [Türkçe](#türkçe)
 
-Blocklune is a block puzzle game for Android. We have no accounts and no servers, and we never ask for a name, email address or any other personal information. The only data that leaves your phone goes to Google, for ads.
+Blocklune is a block puzzle game for Android. We have no accounts and no servers, and we never ask for a name, email address or any other personal information. The only data that leaves your phone goes to Google, for ads and Google Play purchases.
 
 ## What the game keeps
 
@@ -20,9 +20,9 @@ Blocklune is a block puzzle game for Android. We have no accounts and no servers
 The game shows ads from **Google AdMob**:
 
 - a short ad now and then after a Classic game ends (never while you play, never on the daily puzzle, never in the first 15 minutes or first 5 games), and
-- optional **rewarded ads**: you choose to watch one to get a "second wind" after a game ends. If no ad is available, it is free.
+- optional **rewarded ads**: you choose to watch one to get a "second wind" after a game ends, or to get more Undo and Hint uses after you have used up the free ones. If no ad is available, the second wind is free.
 
-Ad content is limited to the "PG" (parental guidance) rating.
+Ads can be removed for good with a one-time purchase. Ad content is limited to the "PG" (parental guidance) rating.
 
 For advertising, analytics and fraud prevention, the Google Mobile Ads SDK in the game automatically collects and shares information with Google and its advertising partners. This includes:
 
@@ -39,11 +39,16 @@ This information is encrypted in transit. Ads may be personalized where this is 
 - How Google uses information from apps that use its services: <https://policies.google.com/technologies/partner-sites>
 - Google Privacy Policy: <https://policies.google.com/privacy>
 
+## In-app purchases
+
+- You can buy "Remove ads" once through **Google Play**. Google handles the payment; we never see card or payment details.
+- The game asks Google Play about your purchase and keeps the purchase token on your phone, so you can restore it and it is never granted twice. Nothing is sent to us.
+
 ## What we don't collect
 
 - No personal information from us: no name, email, phone number, contacts, photos, location, camera or microphone.
 - No analytics or tracking of our own, no chat and no social features.
-- The game works offline. The internet is used only for ads.
+- The game works offline. The internet is used only for ads and Google Play purchases.
 
 ## Children
 
@@ -52,6 +57,7 @@ Blocklune is not directed at children under 13, and we don't knowingly collect a
 ## Removing your data
 
 - Uninstalling the game removes everything it stored.
+- Purchase history stays in your Google Play account, under Google's control.
 
 ## Changes
 
@@ -65,9 +71,9 @@ luneapps.support@gmail.com
 
 ## Türkçe
 
-*Son güncelleme: 22 Kasım 2026*
+*Son güncelleme: 23 Kasım 2026*
 
-Blocklune, Android için blok bulmaca oyunudur. Hesap ve sunucumuz yok; ad, e-posta ya da başka bir kişisel bilgi asla istemiyoruz. Telefonundan çıkan tek veri, reklamlar için Google'a gider.
+Blocklune, Android için blok bulmaca oyunudur. Hesap ve sunucumuz yok; ad, e-posta ya da başka bir kişisel bilgi asla istemiyoruz. Telefonundan çıkan tek veri, reklamlar ve Google Play satın almaları için Google'a gider.
 
 ### Oyunun sakladıkları
 
@@ -79,9 +85,9 @@ Blocklune, Android için blok bulmaca oyunudur. Hesap ve sunucumuz yok; ad, e-po
 Oyun **Google AdMob** reklamları gösterir:
 
 - bir Klasik oyun bittikten sonra ara sıra kısa reklam (oyun sırasında, günlük bulmacada, ilk 15 dakikada ve ilk 5 oyunda asla) ve
-- isteğe bağlı **ödüllü reklamlar**: oyun bitince "bir şans daha" almak için izlemeyi sen seçersin. Reklam yoksa ücretsizdir.
+- isteğe bağlı **ödüllü reklamlar**: oyun bitince "bir şans daha" almak ya da ücretsiz Geri al ve İpucu hakların bitince daha fazlasını almak için izlemeyi sen seçersin. Reklam yoksa "bir şans daha" ücretsizdir.
 
-Reklam içeriği "PG" (ebeveyn rehberliği) derecesiyle sınırlıdır.
+Reklamlar tek seferlik bir satın almayla kalıcı olarak kaldırılabilir. Reklam içeriği "PG" (ebeveyn rehberliği) derecesiyle sınırlıdır.
 
 Oyundaki Google Mobile Ads SDK'sı reklam, analiz ve dolandırıcılığı önleme amacıyla bazı bilgileri otomatik olarak toplar ve Google ile reklam ortaklarıyla paylaşır. Bunlar şunları kapsar:
 
@@ -98,11 +104,16 @@ Bu bilgiler aktarım sırasında şifrelenir. İzin verilen yerlerde reklamlar k
 - Google'ın hizmetlerini kullanan uygulamalardan gelen bilgileri nasıl kullandığı: <https://policies.google.com/technologies/partner-sites>
 - Google Gizlilik Politikası: <https://policies.google.com/privacy>
 
+### Uygulama içi satın almalar
+
+- Bir kez **Google Play** üzerinden "Reklamları kaldır" satın alabilirsin. Ödemeyi Google yürütür; kart ya da ödeme bilgilerini biz asla görmeyiz.
+- Oyun satın alman için Google Play'e sorar ve satın alma jetonunu telefonunda tutar; böylece geri yükleyebilirsin ve aynı satın alma iki kez verilmez. Bize hiçbir şey gönderilmez.
+
 ### Toplamadıklarımız
 
 - Bizden kişisel bilgi yok: ad, e-posta, telefon numarası, kişiler, fotoğraflar, konum, kamera ya da mikrofon yok.
 - Kendi analizimiz ya da izlememiz, sohbet ve sosyal özellik yok.
-- Oyun çevrimdışı çalışır. İnternet yalnızca reklamlar için kullanılır.
+- Oyun çevrimdışı çalışır. İnternet yalnızca reklamlar ve Google Play satın almaları için kullanılır.
 
 ### Çocuklar
 
@@ -111,6 +122,7 @@ Blocklune 13 yaş altı çocuklara yönelik değildir ve hiçbir yaştan kimsede
 ### Verilerini kaldırma
 
 - Oyunu kaldırmak sakladığı her şeyi siler.
+- Satın alma geçmişi Google'ın denetimindeki Google Play hesabında kalır.
 
 ### Değişiklikler
 
